@@ -1,4 +1,5 @@
 # devops-capstone-project
+![Build Status](https://github.com/windrunnerterier/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 # Capstone project for devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
